@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
-  "name": "quakecraft:live_fire",
+  "name": "Quakecraft Live Fire",
+  "icon": "minecraft:flint_and_steel",
   "map": {
     "id": "quakecraft:live_fire"
   },

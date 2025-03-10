@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
   "name": "Quakecraft Dungeon",
+  "icon": "minecraft:stone_bricks",
   "map": {
     "id": "quakecraft:dungeon"
   },

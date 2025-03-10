@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
   "name": "Quakecraft Streets",
+  "icon": "minecraft:coal_block",
   "map": {
     "id": "quakecraft:streets"
   },

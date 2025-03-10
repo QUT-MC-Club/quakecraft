@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
   "name": "Quakecraft F4A Monastery",
+  "icon": "minecraft:snow_block",
   "map": {
     "id": "quakecraft:monastery"
   },

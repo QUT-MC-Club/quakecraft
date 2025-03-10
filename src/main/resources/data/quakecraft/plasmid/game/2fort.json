@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
   "name": "Quakecraft F4A 2fort",
+  "icon": "minecraft:oak_fence",
   "map": {
     "id": "quakecraft:2fort"
   },

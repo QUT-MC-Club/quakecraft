@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
-  "name": "Quakecraft - Dungeon Remix",
+  "name": "Quakecraft Dungeon Remix",
+  "icon": "minecraft:cracked_stone_bricks",
   "map": {
     "id": "quakecraft:dungeon_remix"
   },

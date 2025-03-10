@@ -1,6 +1,7 @@
 {
   "type": "quakecraft:quakecraft",
   "name": "Quakecraft F4A 2fort_invasion",
+  "icon": "minecraft:warped_fence",
   "map": {
     "id": "quakecraft:2fort_invasion",
     "time": 14000
